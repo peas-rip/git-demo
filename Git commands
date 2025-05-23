@@ -1,0 +1,6 @@
+git --version - [Version of the git installed]
+git config --global user.name"User Name" - [Configures the user name globally]
+git config --global user.email"User Email" - [Configures the user email globally]
+git config --global --list - [Provides the configuration global list]
+git config --list - [Provides the configuration list of the repository locally]
+git clone clone-link -[Replace the clone link with https repository link and the repository will be cloned in the directory currently working on]
