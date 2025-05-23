@@ -20,3 +20,4 @@ git checkout -b<branch-name > - [Create a new branch and navigate to that branch
 git branch -d <branch-name> - [Delete a branch name]
 git diff <branch-name > - [Differentiate between the current and the referred branch]
 git merge <branch-name> - [Locally merge the branches ]
+git pull <branch-name > - [fetch and download from remote repo to match the code locally]
