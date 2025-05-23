@@ -1,0 +1,5 @@
+Commands
+cd  - [change directory]
+ls  - [list file]
+ls--a - [list all files]
+clear - [clear the terminal]
