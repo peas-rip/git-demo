@@ -4,3 +4,7 @@ git config --global user.email"User Email" - [Configures the user email globally
 git config --global --list - [Provides the configuration global list]
 git config --list - [Provides the configuration list of the repository locally]
 git clone clone-link -[Replace the clone link with https repository link and the repository will be cloned in the directory currently working on]
+git status - [Provides the status of the code]
+git add file-name - [Adds the file with file-name to be staged]
+git add . - [Adds multiple files that are modified to be staged]
+git add -A - [Adds all files in the repository to be staged]
